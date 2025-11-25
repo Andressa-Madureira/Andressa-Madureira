@@ -61,13 +61,11 @@ Se você também está na transição, ama tecnologia ou quer trocar ideias sobr
 
 ---
 
-<p align="center">
-  Com dados, criamos conhecimento. Com conhecimento, criamos impacto. 💡
+<h1 align="center" >📊 GitHub Stats <h1>
+<p align="center" >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andressa-Madureira&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andressa-Madureira&show_icons=true&theme=radical&hide_border=true" alt="Andressa GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andressa-Madureira&layout=compact&theme=radical&hide_border=true" alt="Andressa Top Langs"/>
+  Com dados, criamos conhecimento. Com conhecimento, criamos impacto. 💡
 </p>
