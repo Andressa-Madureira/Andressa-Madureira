@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Estudante de <strong>Engenharia de Dados</strong> no programa <strong>Desenvolve</strong> do Grupo Boticário<br>
-  🎓 Graduanda em <strong>Análise e Desenvolvimento de Sistemas</strong><br>
+  🎓 Graduada em <strong>Análise e Desenvolvimento de Sistemas</strong><br>
   📍 29 anos | Apaixonada por tecnologia, dados e transformação digital
 </p>
 
