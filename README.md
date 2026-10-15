@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou a Andressa! 👋</h1>
 
 <p align="center">
-  💻 Estudante de <strong>Engenharia de Dados</strong> no programa <strong>Desenvolve</strong> do Grupo Boticário<br>
+  🎓 Graduanda em <strong>Engenharia de Software</strong><br>
   🎓 Graduada em <strong>Análise e Desenvolvimento de Sistemas</strong><br>
   📍 Apaixonada por tecnologia, dados e transformação digital
 </p>
@@ -10,51 +10,25 @@
 
 ### 🚀 Minha trajetória até aqui
 
-Desde que comecei a faculdade de Análise e Desenvolvimento de Sistemas, venho explorando diversas áreas da tecnologia. Tive meus primeiros contatos com:
+Minha experiência profissional foi construída em liderança, processos e acompanhamento de indicadores. Hoje, como Líder de Suporte de Sistemas, trabalho diretamente com métricas como TMA, CSAT e desempenho operacional, buscando entender o que os números estão mostrando e, principalmente, o que podemos fazer a partir deles.
 
-- `HTML`, `CSS` e `JavaScript` – desenvolvendo páginas web e entendendo a lógica de programação.
-- Estrutura de dados, lógica e boas práticas de desenvolvimento.
+Essa vivência despertou meu interesse por Dados e me levou a aprofundar minha formação técnica. Sou graduanda em Engenharia de Software e concluí o Programa Desenvolve, do Grupo Boticário, na trilha de Engenharia de Dados.
+Tenho desenvolvido conhecimentos em SQL, Power BI e Python, trabalhando com análise, tratamento e visualização de dados e construção de dashboards. Gosto especialmente do processo de investigar um problema, encontrar padrões, transformar dados em informação e chegar a uma conclusão que possa apoiar uma decisão.
 
-Mas recentemente, fui selecionada para uma nova jornada que tem transformado minha forma de ver dados e tecnologia:
-
-> 🎯 **Fui aprovada na trilha de Engenharia de Dados** do Programa **Desenvolve**, oferecido pelo Grupo Boticário, e estou imersa no universo de Python, SQL, ETL, Pandas, NumPy, análise exploratória, e muito mais!
+Estou construindo minha carreira em Análise de Dados, Business Intelligence e áreas relacionadas, unindo minha experiência prática com processos e indicadores à minha formação em tecnologia.
+Se tem uma coisa que me interessa, é entender o que existe por trás dos números, e o que podemos fazer com aquilo que eles nos mostram.
 
 ---
 
-### 🔧 Habilidades em construção
+### 🔧 Habilidades:
 
-Atualmente estou me aprofundando em:
-
-- 🐍 **Python para dados**
 - 🧱 **SQL e modelagem de dados**
-- 📊 **Pandas, NumPy, Matplotlib e Seaborn**
-- ☁️ **Fundamentos de ETL e pipelines**
-- 🗃️ **Organização e visualização de dados**
+- 🐍 **Python para dados**
+- 🗃️ **Power BI**
 - 🧠 **Pensamento analítico e comunicação de insights**
 
 ---
-
-### 🧪 Repositórios em destaque
-
-✨ Aqui no meu GitHub, você vai encontrar:
-
-- Projetos da minha trilha de Engenharia de Dados
-- Projetos realizados com foco em Front-End utilizando HTML, CSS e Javascript
-- Meus aprendizados diários na jornada de transição de carreira
-
----
-
-### 🌱 O que vem por aí
-
-- Criar meu primeiro pipeline de dados 💾
-- Me aprofundar em Data Lakes, Big Data e ferramentas na nuvem
-- Publicar projetos no portfólio com dados reais e dashboards
-
----
-
 ### 🤝 Vamos nos conectar?
-
-Se você também está na transição, ama tecnologia ou quer trocar ideias sobre dados:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/andressa-omadureira/)
 
